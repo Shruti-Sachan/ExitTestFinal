@@ -1,0 +1,16 @@
+[INFO ] 2024-05-21 21:31:10.300 [main] TestLogging - This is an INFO level message
+[WARN ] 2024-05-21 21:31:10.307 [main] TestLogging - This is a WARN level message
+[ERROR] 2024-05-21 21:31:10.308 [main] TestLogging - This is an ERROR level message
+[FATAL] 2024-05-21 21:31:10.308 [main] TestLogging - This is a FATAL level message
+[INFO ] 2024-05-21 21:31:10.308 [main] TestLogging - Simulating some business logic...
+[ERROR] 2024-05-21 21:31:10.308 [main] TestLogging - An exception occurred: 
+java.lang.Exception: Simulated exception
+	at tests.TestLogging.simulateBusinessLogic(TestLogging.java:31) ~[test-classes/:?]
+	at tests.TestLogging.main(TestLogging.java:22) [test-classes/:?]
+[INFO ] 2024-05-21 21:31:56.825 [main] LoginTest - Launching browser
+[INFO ] 2024-05-21 21:32:00.271 [main] LoginTest - Launching browser
+[INFO ] 2024-05-21 21:32:00.501 [main] LoginTest - Launching browser
+[INFO ] 2024-05-21 21:32:00.608 [main] LoginTest - Launching browser
+[INFO ] 2024-05-21 21:54:23.696 [main] LoginTest - Test completed for value: 9336388567
+[INFO ] 2024-05-21 21:56:33.670 [main] LoginTest - Test completed for value: 9336388567
+[INFO ] 2024-05-21 22:41:01.999 [main] LoginTest - Test completed for value: 9336388567

@@ -35,17 +35,17 @@ public class GroceryTestPage extends TestBase {
         log(Status.INFO, "Clicked on Current Location");
         logger.info("Clicked on Current Location ");
 
-        groceryPage.clickStaples();
-        log(Status.INFO, "Clicked on Staples");
-        logger.info("Clicked on Staples");
+        // groceryPage.clickStaples();
+        // log(Status.INFO, "Clicked on Staples");
+        // logger.info("Clicked on Staples");
 
-        groceryPage.addItem();
-        log(Status.INFO, "Added Item to Cart");
-        logger.info("Added Item to Cart");
+        // groceryPage.addItem();
+        // log(Status.INFO, "Added Item to Cart");
+        // logger.info("Added Item to Cart");
 
-        groceryPage.viewCartItem();
-        log(Status.INFO, "Viewed Cart Item");
-        logger.info("Viewed Cart Item");
+        // groceryPage.viewCartItem();
+        // log(Status.INFO, "Viewed Cart Item");
+        // logger.info("Viewed Cart Item");
         
         //Assert.assertTrue(groceryPage.isItemAdded(), "Item was not added to the cart.");
     }

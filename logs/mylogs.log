@@ -78,3 +78,25 @@
 [INFO ] 2024-05-25 12:06:16.798 [main] TestScenario4 - Navigated to URL
 [INFO ] 2024-05-25 12:06:19.725 [main] TestScenario4 - Click on the Cancellation Policy Page
 [INFO ] 2024-05-25 12:06:19.725 [main] TestScenario4 - Order Cancellation Page is successfully showing
+[INFO ] 2024-05-26 11:25:34.977 [main] LoginTest - Navigated to URL: https://www.flipkart.com/
+[INFO ] 2024-05-26 11:25:51.809 [main] LoginTest - Clicked Login
+[INFO ] 2024-05-26 11:25:53.052 [main] LoginTest - Entered Username: 9336388567
+[INFO ] 2024-05-26 11:25:53.558 [main] LoginTest - Clicked Submit
+[INFO ] 2024-05-26 11:25:53.559 [main] LoginTest - Test completed for value: 9336388567
+[INFO ] 2024-05-26 11:26:25.901 [main] GroceryTestPage - Navigated to URL: https://www.flipkart.com/
+[INFO ] 2024-05-26 11:26:37.359 [main] GroceryTestPage - Clicked on Grocery
+[INFO ] 2024-05-26 11:26:40.995 [main] GroceryTestPage - Clicked on Current Location 
+[INFO ] 2024-05-26 11:26:45.266 [main] GroceryTestPage - Clicked on Staples
+[INFO ] 2024-05-26 11:26:49.474 [main] GroceryTestPage - Added Item to Cart
+[INFO ] 2024-05-26 11:26:50.564 [main] GroceryTestPage - Viewed Cart Item
+[INFO ] 2024-05-26 11:27:33.704 [main] AddtocartTest - Navigated to URL: https://www.flipkart.com/
+[INFO ] 2024-05-26 11:27:34.920 [main] AddtocartTest - Entered search data: iphone
+[INFO ] 2024-05-26 11:27:52.768 [main] AddtocartTest - Clicked on search button
+[INFO ] 2024-05-26 11:27:54.168 [main] AddtocartTest - Fetched product title
+[INFO ] 2024-05-26 11:28:35.147 [main] MobilePageTest - Navigated to URL: https://www.flipkart.com/
+[INFO ] 2024-05-26 11:28:42.842 [main] MobilePageTest - Clicked on Mobiles Image
+[INFO ] 2024-05-26 11:29:01.577 [main] SignupTest - Launching browser
+[INFO ] 2024-05-26 11:29:21.767 [main] SignupTest - Click on the signup successful
+[INFO ] 2024-05-26 11:29:26.707 [main] SignupTest - Click Create new account
+[INFO ] 2024-05-26 11:29:27.485 [main] SignupTest - Enter the phone number to register
+[INFO ] 2024-05-26 11:29:29.538 [main] SignupTest - Sign up successful
